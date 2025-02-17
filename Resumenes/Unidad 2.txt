@@ -1,0 +1,21 @@
+Temas
+ 1. Conceptos básicos para iniciar a programar
+ 2. Tipos de datos y operadores
+ 3. Estructuras de Control Condicionales
+ 4. Estructuras de control de bucles
+
+Resumen
+
+Durante esta unidad estudiamos los conceptos basicos para iniciar a programar, vimos como utilizar la sintaxis dentro del entorno JavaScript.
+
+En general considero que fue una unidad difícil ya que habían conceptos que a pesar de que cuento con un conocimiento básico, se me hicieron un tanto difíciles de entender. A la hora de realizar las tareas tuve que hacer una búsqueda bastante extensa para poder completar la asignación de manera satisfactoria.
+
+Logre entregar mis tareas pero si requiero mucho esfuerzo e investigación.
+
+Temas Faciles
+ - Conceptos Basicos para iniciar a programar
+
+Temas Complicados
+ - Tipos de datos y operadores
+ - Estructuras de Control Condicionales
+ - Estructuras de control de bucles

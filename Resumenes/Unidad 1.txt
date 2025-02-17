@@ -1,0 +1,24 @@
+Temas de la Primera Unidad
+
+Sistema Binario
+Logica
+Algoritmo
+Programacion
+Editores de texto.
+
+Resumen
+
+En la primera unidad aprendimos acerca de las bases de la programacion, vimos como funcionan las computadoras y las maneras en las que se comunican entre si, y el trasfondo de como las computadores entienden nuestras instrucciones.
+
+Revisamos la logica y los algoritmos, adicional vimos como los algoritmos se pueden aplicar a la vida diaria. 
+
+Vimos entornos de programacion y los editores de texto que nos van a ayudar a comunicarnos con la computadora a la hora de estar programando.
+
+Temas Faciles
+- Sistema Binario
+- Logica
+
+Temas Complicado
+- Algoritmos
+- Programacion
+- Editores de texto.
